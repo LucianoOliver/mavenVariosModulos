@@ -13,14 +13,13 @@
 	<name>banco24horas</name>
 	<packaging>jar</packaging>
 
-
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
-<!-- 		<dependency> -->
-<!-- 			<groupId>banco24horasparent</groupId> -->
-<!-- 			<artifactId>bancoalpha</artifactId> -->
-<!-- 			<scope>runtime</scope> -->
-<!-- 		</dependency> -->
+		<dependency>
+			<groupId>banco24horasparent</groupId>
+			<artifactId>bancoalpha</artifactId>
+			<scope>compile</scope>
+		</dependency>
 
 		<dependency>
 			<groupId>org.mockito</groupId>
@@ -32,7 +31,5 @@
 			<artifactId>junit</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-
 	</dependencies>
 </project>

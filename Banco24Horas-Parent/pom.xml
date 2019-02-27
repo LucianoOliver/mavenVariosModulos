@@ -11,11 +11,6 @@
 	<description>banco24horasparent</description>
 	<packaging>pom</packaging>
 
-	<modules>
-		<module>../Banco24Horas</module>
-		<module>../BancoAlpha</module>
-	</modules>
-
 	<dependencyManagement>
 		<dependencies>
 			<!-- https://mvnrepository.com/artifact/org.mockito/mockito-all -->
@@ -37,6 +32,12 @@
 				<scope>runtime</scope>
 				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
+<!-- 			<dependency> -->
+<!-- 				<groupId>banco24horasparent</groupId> -->
+<!-- 				<artifactId>banco24horas</artifactId> -->
+<!-- 				<scope>runtime</scope> -->
+<!-- 				<version>0.0.1-SNAPSHOT</version> -->
+<!-- 			</dependency> -->
 			<dependency>
 				<groupId>org.hamcrest</groupId>
 				<artifactId>hamcrest-core</artifactId>

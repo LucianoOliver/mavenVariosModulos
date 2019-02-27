@@ -12,17 +12,9 @@
 		<list key="issueManagementUrl">
 		</list>
 	</section>
-	<section name="org.eclipse.m2e.core.ui.internal.wizards.MavenProjectSelectionDialog">
-		<item value="480" key="width"/>
-		<item value="516" key="x"/>
-		<item value="164" key="y"/>
-		<item value="450" key="height"/>
-	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
-			<item value="/home/25918442839/Área de Trabalho/mavenParent/caixa24horas/BancoAlpha"/>
-			<item value="/home/25918442839/Área de Trabalho/mavenParent/caixa24horas/Banco24Horas"/>
-			<item value="/home/25918442839/Área de Trabalho/mavenParent/caixa24horas/Banco24Horas-Parent"/>
+			<item value="/home/25918442839/Área de Trabalho/mavenParent/caixa24horas/mavenVariosModulos"/>
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
