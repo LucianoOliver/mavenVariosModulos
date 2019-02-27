@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="BancoBetaTest" project="Banco24Horas" tests="12" started="12" failures="0" errors="0" ignored="0">
+  <testsuite name="br.gov.serpro.banco.beta.BancoBetaTest" time="0.045">
+    <testcase name="ConsultaExtratoComMaisDeUmDepositoEUmaRetiradaCorrenteEspecialtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.044"/>
+    <testcase name="devePermitirSaqueNoLimiteDuzentosReais" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="DeveRetornarExcecaoQuandoSaldoInsuficienteMaisDeTresOperacoesNaContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="ConsultaExtratoComMaisDeUmDepositoContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="ConsultaExtratoComTransferenciaContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="ConsultaExtratoComUmDepositoContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="ConsultaExtratoComTransferenciaCorrenteEspecialtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="ConsultaExtratoComMaisDeUmDepositoCorrenteEspecialtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.001"/>
+    <testcase name="ConsultaExtratoComMaisDeUmDepositoEUmaRetiradaContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="ConsultaExtratoComUmDepositoContaCorrenteEspecialtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="DeveRetornarExcecaoQuandoContaInexistenteMaisDeTresOperacoesNaContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+    <testcase name="DeveRetornarExcecaoQuandoMaisDeTresOperacoesNaContaCorrenteComumtest" classname="br.gov.serpro.banco.beta.BancoBetaTest" time="0.0"/>
+  </testsuite>
+</testrun>

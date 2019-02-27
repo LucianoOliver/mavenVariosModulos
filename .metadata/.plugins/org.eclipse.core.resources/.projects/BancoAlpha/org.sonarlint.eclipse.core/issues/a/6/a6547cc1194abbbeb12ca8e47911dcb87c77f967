@@ -1,0 +1,13 @@
+
+•%squid:RedundantThrowsDeclarationCheckA"GRemove the redundant '!unknownSymbol!' thrown exception declaration(s).(Ç†ýÍ8¡¨¶ù’-H¡
+RMINORZ
+CODE_SMELL
+š%squid:RedundantThrowsDeclarationCheckI"GRemove the redundant '!unknownSymbol!' thrown exception declaration(s).(»œÚ¡úÿÿÿÿ8¡¨¶ù’-H¢
+RMINORZ
+CODE_SMELL
+š%squid:RedundantThrowsDeclarationCheckO"GRemove the redundant '!unknownSymbol!' thrown exception declaration(s).(»œÚ¡úÿÿÿÿ8¡¨¶ù’-H£
+RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£½Èæÿÿÿÿÿ8¡¨¶ù’-H¤
+RMAJORZ
+CODE_SMELL

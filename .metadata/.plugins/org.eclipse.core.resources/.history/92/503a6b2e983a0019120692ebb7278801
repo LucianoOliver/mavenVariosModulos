@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<parent>
+		<groupId>banco24horasparent</groupId>
+		<artifactId>banco24horasparent</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+		<relativePath>../Banco24Horas-Parent/</relativePath>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>bancoalpha</artifactId>
+	<name>bancoalpha</name>
+	<description>bancoalpha</description>
+
+	<dependencies>
+<!-- 		<dependency> -->
+<!-- 			<groupId>banco24horasparent</groupId> -->
+<!-- 			<artifactId>banco24horas</artifactId> -->
+<!-- 			<scope>runtime</scope> -->
+<!-- 			<version>0.0.1-SNAPSHOT</version> -->
+<!-- 		</dependency> -->
+	</dependencies>
+</project>
